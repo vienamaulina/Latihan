@@ -2,4 +2,4 @@
 ## viena
 ### bismillah bisa
 
-![Gambar 1](ss/1.png)
+![Gambar 1](ss/dua.png)
